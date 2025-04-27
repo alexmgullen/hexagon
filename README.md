@@ -1,6 +1,8 @@
-# HEXAGONTARIO
+# Hexagon
 
-HEXAGONTARIO
+This project demonstrates how to use the h3 library to create a hex map of any shape map, in this case Ontario.
+
+![Hexmap of ontario](./docs/hero.png)
 
 ## How to run
 
