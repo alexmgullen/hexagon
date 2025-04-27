@@ -1,4 +1,3 @@
 venv
 output/*
 raw
-!raw/MANIFEST.md
